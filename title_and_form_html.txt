@@ -1,0 +1,6 @@
+ <div id="unity-container" class="unity-desktop">
+      <div> <h1> Welcome to Cellulo Mori Activity </h1> </div>
+      <div> <h2> Better in full screen </h2> </div>
+      <div style="padding-bottom:30px">
+	<h1> <a href="https://forms.gle/mvZzHC8yG6rbyEFo8"> Feedback form link </a> </h1>
+      </div>
